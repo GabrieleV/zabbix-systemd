@@ -1,0 +1,10 @@
+Package: zabbix-systemd
+Version: 1.0.0-2019122201
+Section: net
+Priority: optional
+Architecture: all
+Depends: zabbix-agent (>=4.0)
+Maintainer: Gabriele Vivinetto <gabriele.mailing@rvmgroup.it>
+Description: Zabbiz agent scripts to minitor Systemd services
+ Zabbiz agent scripts to minitor Systemd services
+
